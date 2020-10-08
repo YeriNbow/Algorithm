@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/10866
+
 import sys
 import collections
 
