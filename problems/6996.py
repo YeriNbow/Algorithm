@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/6996
+
 def anagram(st1, st2):
     if sorted(st1) == sorted(st2):
         return True
