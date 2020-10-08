@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2812
+
 n, k = map(int, input().split())
 num = list(input())
 
