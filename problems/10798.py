@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/10798
+
 strs, res = [], []
 maxlen = 0
 
