@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/10808
+
 word = input()
 check = [0]*26
 

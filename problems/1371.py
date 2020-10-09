@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1371
+
 import sys
 import collections
 import re

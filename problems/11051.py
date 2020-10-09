@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/11051
+
 import sys
 from math import factorial
 
