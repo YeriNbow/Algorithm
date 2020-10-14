@@ -27,5 +27,5 @@ while heap:
         print(price)
 
     for v, w in graph[n]:
-        alt = price + w
-        heapq.heappush(heap, (v, alt))
+        tmp = price + w
+        heapq.heappush(heap, (v, tmp))
